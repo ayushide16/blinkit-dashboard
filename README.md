@@ -84,16 +84,15 @@ This dashboard is a hands-on application of data visualization and analytics. It
 
 ## 📁 Repository Structure
 
-├── assets/ # Images or screenshots of dashboards
-├── dashboard.pbix # Power BI dashboard file
-├── data/ # Sample data used
-└── README.md # Project documentation
+├── assets/ # Images or screenshots of dashboards </br>
+├── dashboard.pbix # Power BI dashboard file </br>
+├── data/ # Sample data used </br>
+└── README.md # Project documentation </br>
 
 ---
 
 ## 📌 Data Source & Credits
 
-All data and design elements were originally shared by **The Developer** on YouTube:  
-🔗 [Original Video](https://youtu.be/VCE62a9Z5Vc?si=zsa3qcXOADdQz9BO)
+All data and design elements were originally shared by **The Developer** on YouTube: [Original Video](https://youtu.be/VCE62a9Z5Vc?si=zsa3qcXOADdQz9BO)
 
 > This dashboard is adapted strictly for **learning and portfolio** purposes and is not intended for commercial use. Full credit goes to the original creator for the dataset and conceptual design used in this project.
