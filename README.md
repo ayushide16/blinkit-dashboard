@@ -84,10 +84,10 @@ This dashboard is a hands-on application of data visualization and analytics. It
 
 ## 📁 Repository Structure
 
-├── assets/ # Images or screenshots of dashboards </br>
-├── dashboard.pbix # Power BI dashboard file </br>
-├── data/ # Sample data used </br>
-└── README.md # Project documentation </br>
+├── assets/ -> Images or screenshots of dashboards </br>
+├── dashboard.pbix -> Power BI dashboard file </br>
+├── data/ -> Sample data used </br>
+└── README.md -> Project documentation </br>
 
 ---
 
